@@ -1,2 +1,4 @@
 <?php
-echo "hola dnjdjeddaw 2";
+for ($i = 0; $i < 10; $i++) {
+    echo "Hola mundo";
+}
