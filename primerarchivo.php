@@ -4,4 +4,4 @@ if (1 == 1) {
 } else {
     echo "1 no es igual que 1";
 }
-?>
+
